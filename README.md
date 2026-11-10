@@ -31,9 +31,7 @@ COCO AI is a modern desktop AI assistant developed by **Deva Thakare**.
 4. Configure your Gemini API key.
 5. Enjoy your personal AI assistant.
 
-## Screenshots
 
-(Add screenshots here)
 
 ## Developer
 
